@@ -7,8 +7,7 @@
       "OptB": "A style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated.",
       "OptC": "None of the above",
       "OptD": "Both a and b.",
-      "correctOpt": "Both a and b."
-    },
+      "correctOpt": "Both a and b." },
 
     { "ID":2,
       "Level":"Beginner",
