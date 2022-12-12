@@ -5,7 +5,7 @@
       "Question":"What is object-oriented programming?",
       "OptA": "A computer programming model that organizes software design around data, or objects, rather than functions and logic",
       "OptB": "A style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated.",
-      "OptC": "None of the above",
+      "OptC": "None of the above.",
       "OptD": "Both a and b.",
       "correctOpt": "Both a and b." 
     },
@@ -17,7 +17,7 @@
       "OptB": "Encapsulation",
       "OptC": "Inheritance",
       "OptD": "All of the above.",
-      "correctOpt": "All of the above"
+      "correctOpt": "All of the above."
       },
 
     { "ID":2,
@@ -47,7 +47,7 @@
       "OptB": "Control abstraction means hiding the implementation details.",
       "OptC": "One of the pillars of OOP.",
       "OptD": "All of the above.",
-      "correctOpt": "All of the above"
+      "correctOpt": "All of the above."
       },
 
     { "ID":5,
@@ -75,7 +75,7 @@
       "Question":"What is polymorphism?",
       "OptA": "One interface, multiple functions.",
       "OptB": "the provision of a single interface to entities of different types, or the use of a single symbol to represent multiple different types",
-      "OptC": "Neither a or b",
+      "OptC": "Neither a or b.",
       "OptD": "Both a and b.",
       "correctOpt": "Both a and b."
       },
@@ -85,7 +85,7 @@
       "Question":"What is the difference between object-oriented programming and structural object programming?",
        "OptA": "Structured programming allows developing a program using a set of modules or functions.",
       "OptB": "The object oriented programming allows constructing a program using a set of objects and their interactions",
-      "OptC": "Neither a or b",
+      "OptC": "Neither a or b.",
       "OptD": "Both a and b.",
       "correctOpt": "Both a and b."
       },
@@ -95,7 +95,7 @@
       "Question":"What is the difference between a class and a structure?",
       "OptA": "Structures are value types",
       "OptB": "Classes are reference types",
-      "OptC": "Neither a or b",
+      "OptC": "Neither a or b.",
       "OptD": "Both a and b.",
       "correctOpt": "Both a and b."
       }
