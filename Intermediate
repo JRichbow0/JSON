@@ -1,0 +1,93 @@
+ { "Intermediate" : 
+  [
+    { "ID":11,
+      "Question":"What is Cohesion in object-oriented programming?",
+      "OptA": "Shows the relationship within the module",
+      "OptB": "The degree to which the elements inside a module belong together",
+      "OptC": "How a single class is designed",
+      "OptD": "All of the above.",
+      "correctOpt": "All of the above"
+      },
+
+    { "ID":12,
+      "Question":"What is Coupling in object-oriented programming?",
+      "OptA": "Shows the relationship between modules",
+      "OptB": "How classes interact with each other",
+      "OptC": "the degree of direct knowledge that one element has of another",
+      "OptD": "All of the above.",
+      "correctOpt": "All of the above"
+      },
+
+    { "ID":13,
+      "Question":"What is a superclass?",
+      "OptA": "a class from which other classes inherit code",
+      "OptB": " the class from which many subclasses can be created",
+      "OptC": "Neither a or b.",
+      "OptD": "Both a and b.",
+      "correctOpt": "Both a and b."
+     },
+
+    { "ID":14,
+      "Question":"What is a subclass?",
+     "OptA": "classes that inherit one or more language entities from another class.",
+      "OptB": "class that inherits state and behavior from all of its ancestors.",
+      "OptC": "Neither a or b.",
+      "OptD": "Both a and b.",
+      "correctOpt": "Both a and b."
+      },
+
+    { "ID":15,
+      "Question":"What is the difference between static and dynamic polymorphism?",
+       "OptA": "Static Polymorphism is where the decision to resolve which method to accomplish, is determined during the compile time. ",
+      "OptB": "Dynamic Polymorphism: is where the decision to choose which method to execute, is set during the run-time",
+      "OptC": "Neither a nor b",
+      "OptD": "Both a and b",
+      "correctOpt": "Both a and b."
+      },
+
+    { "ID":16,
+      "Question":"What are the three access modifiers?",
+       "OptA": "Public",
+      "OptB": "Protected",
+      "OptC": "Private",
+      "OptD": "All of the above.",
+      "correctOpt": "All of the above"
+      },
+
+    { "ID":17,
+      "Question":"What is an interface?",
+      "OptA": "A blueprint that can be used to implement a class",
+      "OptB": "A programming structure/syntax that allows the computer to enforce certain properties on an object",
+      "OptC": "Neither a or b.",
+      "OptD": "Both a and b.",
+      "correctOpt": "Both a and b."
+      },
+
+    { "ID":18,
+      "Question":"What is a constructor?",
+      "OptA": "A special method of a class or structure in object-oriented programming that initializes a newly created object of that type",
+      "OptB": "A special type of subroutine called to create an object",
+      "OptC": "Neither a or b.",
+      "OptD": "Both a and b.",
+      "correctOpt": "Both a and b."
+      },
+
+    { "ID":19,
+      "Question":"What is a destructor?",
+      "OptA": "A member function that is invoked automatically when the object goes out of scope or is explicitly destroyed by a call to delete",
+      "OptB": "a method which is invoked mechanically just before the memory of the object is released",
+      "OptC": "Neither a or b.",
+      "OptD": "Both a and b.",
+      "correctOpt": "Both a and b."
+      }, 
+      
+      { "ID":20,
+      "Question":"What is exception handling?",
+      "OptA": "A mechanism for processing errors and exceptional situations",
+      "OptB": "the process of responding to unwanted or unexpected events when a computer program runs",
+      "OptC": "Neither a or b.",
+      "OptD": "Both a and b.",
+      "correctOpt": "Both a and b."
+      }
+     ]
+   }
