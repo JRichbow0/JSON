@@ -253,7 +253,7 @@
       "Question":"What is the single responsibility principle?",
       "OptA": "A class should have one and only one reason to change, meaning that a class should have only one job.",
       "OptB": "First principle of SOLID",
-      "OptC": "Neither a or b",
+      "OptC": "Neither a or b.",
       "OptD": "Both a and b.",
       "correctOpt": "Both a and b."
       },
@@ -263,7 +263,7 @@
       "Question":"What is the open-closed principle?",
       "OptA": "Objects or entities should be open for extension but closed for modification.",
       "OptB": "Second principle of SOLID",
-      "OptC": "Neither a or b",
+      "OptC": "Neither a or b.",
       "OptD": "Both a and b.",
       "correctOpt": "Both a and b."
       },
@@ -273,7 +273,7 @@
       "Question":"What is the Liskov Substitution Principle?",
       "OptA": "every subclass or derived class should be substitutable for its base or parent class.",
       "OptB": "Third principle of SOLID",
-      "OptC": "Neither a or b",
+      "OptC": "Neither a or b.",
       "OptD": "Both a and b.",
       "correctOpt": "Both a and b."
       },
