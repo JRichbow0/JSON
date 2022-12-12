@@ -95,7 +95,7 @@
       "Question":"What is the difference between a class and a structure?",
       "OptA": "Structures are value types",
       "OptB": "Classes are reference types",
-      "OptC": "Neither a or b.",
+      "OptC": "Neither a or b",
       "OptD": "Both a and b.",
       "correctOpt": "Both a and b."
       }
